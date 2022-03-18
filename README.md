@@ -3,13 +3,14 @@ Repository of codes created in the discipline of Operational Systems in the seme
 
 
 ## Trabalho Final 1
-Motivação:
+**Motivação**:
 - Exercitar o uso de programação concorrente, programação
 com memória compartilhada e sincronização entre threads
 - Implementação de uma aplicação de brinquedo
 utilizando C
 - Uso de POSIX threads e mecanismos de sincronização
 
+**Avaliação**: 10,0
 
 ## Trabalho Final 2
 Motivação: 
