@@ -11,3 +11,8 @@
 ```./main```
 
 **Avaliação**: 10,0
+
+**Autores**:
+
+1) [@scrNorya](https://github.com/scrNorya)
+2) [@beatriz-valio-weiss](https://github.com/beatriz-valio-weiss)
